@@ -1,4 +1,4 @@
-package com.yukang.practicaltraining;
+package com.yukang.notificationdemo;
 
 import android.app.Notification;
 import android.app.NotificationManager;
